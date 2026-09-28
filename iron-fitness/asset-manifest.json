@@ -1,0 +1,866 @@
+[
+  {
+    "file": "business-card.svg",
+    "category": "Membership",
+    "title": "Business card",
+    "width": 900,
+    "height": 550,
+    "dimensions": "90 \u00d7 55 mm",
+    "notes": "Front face. Add 3 mm bleed; 4 mm minimum safe margin. Placeholder name and member number. PVC-free stock preferred."
+  },
+  {
+    "file": "business-card-back.svg",
+    "category": "Membership",
+    "title": "Business card / reverse",
+    "width": 900,
+    "height": 550,
+    "dimensions": "90 \u00d7 55 mm",
+    "notes": "Contact and access data must be supplied. No functional barcode is fabricated."
+  },
+  {
+    "file": "membership-card.svg",
+    "category": "Membership",
+    "title": "Membership card",
+    "width": 900,
+    "height": 550,
+    "dimensions": "90 \u00d7 55 mm",
+    "notes": "Front face. Add 3 mm bleed; 4 mm minimum safe margin. Placeholder name and member number. PVC-free stock preferred."
+  },
+  {
+    "file": "membership-card-back.svg",
+    "category": "Membership",
+    "title": "Membership card / reverse",
+    "width": 900,
+    "height": 550,
+    "dimensions": "90 \u00d7 55 mm",
+    "notes": "Contact and access data must be supplied. No functional barcode is fabricated."
+  },
+  {
+    "file": "premium-membership-card.svg",
+    "category": "Membership",
+    "title": "Premium membership card",
+    "width": 900,
+    "height": 550,
+    "dimensions": "90 \u00d7 55 mm",
+    "notes": "Front face. Add 3 mm bleed; 4 mm minimum safe margin. Placeholder name and member number. PVC-free stock preferred."
+  },
+  {
+    "file": "premium-membership-card-back.svg",
+    "category": "Membership",
+    "title": "Premium membership card / reverse",
+    "width": 900,
+    "height": 550,
+    "dimensions": "90 \u00d7 55 mm",
+    "notes": "Contact and access data must be supplied. No functional barcode is fabricated."
+  },
+  {
+    "file": "staff-id.svg",
+    "category": "Membership",
+    "title": "Staff ID",
+    "width": 600,
+    "height": 900,
+    "dimensions": "60 \u00d7 90 mm",
+    "notes": "Portrait and verified name required. Reserve top 10 mm for clip attachment; no access code in concept."
+  },
+  {
+    "file": "trainer-id.svg",
+    "category": "Membership",
+    "title": "Trainer ID",
+    "width": 600,
+    "height": 900,
+    "dimensions": "60 \u00d7 90 mm",
+    "notes": "Portrait and verified name required. Reserve top 10 mm for clip attachment; no access code in concept."
+  },
+  {
+    "file": "letterhead.svg",
+    "category": "Membership",
+    "title": "Letterhead",
+    "width": 840,
+    "height": 1188,
+    "dimensions": "A4",
+    "notes": "Editable flat artwork. Uncoated paper. 3 mm bleed for trimmed print; personal data left blank."
+  },
+  {
+    "file": "fitness-assessment.svg",
+    "category": "Membership",
+    "title": "Fitness assessment sheet",
+    "width": 840,
+    "height": 1188,
+    "dimensions": "A4",
+    "notes": "Editable flat artwork. Uncoated paper. 3 mm bleed for trimmed print; personal data left blank."
+  },
+  {
+    "file": "workout-notebook.svg",
+    "category": "Membership",
+    "title": "Workout notebook",
+    "width": 840,
+    "height": 1188,
+    "dimensions": "A4",
+    "notes": "Editable flat artwork. Uncoated paper. 3 mm bleed for trimmed print; personal data left blank."
+  },
+  {
+    "file": "welcome-card.svg",
+    "category": "Membership",
+    "title": "Welcome card",
+    "width": 1000,
+    "height": 700,
+    "dimensions": "A6 landscape",
+    "notes": "Editable flat artwork. Uncoated paper. 3 mm bleed for trimmed print; personal data left blank."
+  },
+  {
+    "file": "notebook-interior.svg",
+    "category": "Membership",
+    "title": "Workout notebook / inside",
+    "width": 840,
+    "height": 1188,
+    "dimensions": "A4 / scale to A5",
+    "notes": "Write-in training record, blank by design. No prescribed training loads."
+  },
+  {
+    "file": "performance-t-shirt.svg",
+    "category": "Apparel",
+    "title": "Performance T-shirt / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "55 mm chest mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "oversized-t-shirt.svg",
+    "category": "Apparel",
+    "title": "Oversized T-shirt / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "260 mm back print",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "training-top.svg",
+    "category": "Apparel",
+    "title": "Training top / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "32 mm mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "leggings.svg",
+    "category": "Apparel",
+    "title": "Leggings / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "70 mm vertical bars",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "shorts.svg",
+    "category": "Apparel",
+    "title": "Shorts / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "32 mm mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "hoodie.svg",
+    "category": "Apparel",
+    "title": "Hoodie / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "60 mm chest mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "socks.svg",
+    "category": "Apparel",
+    "title": "Socks / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "25 mm woven bars",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "cap.svg",
+    "category": "Apparel",
+    "title": "Cap / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "35 mm mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "trainer-uniform.svg",
+    "category": "Apparel",
+    "title": "Trainer uniform / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "240 mm back print",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "staff-uniform.svg",
+    "category": "Apparel",
+    "title": "Staff uniform / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "170 mm back print",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "gym-towel.svg",
+    "category": "Accessories",
+    "title": "Gym towel / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "70 mm mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "yoga-mat.svg",
+    "category": "Accessories",
+    "title": "Yoga mat / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "90 mm bars",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "resistance-bands.svg",
+    "category": "Accessories",
+    "title": "Resistance bands / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "80 mm print zone",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "gym-bag.svg",
+    "category": "Accessories",
+    "title": "Gym bag / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "65 mm mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "tote-bag.svg",
+    "category": "Accessories",
+    "title": "Tote bag / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "220 mm statement",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "water-bottle.svg",
+    "category": "Accessories",
+    "title": "Water bottle / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "45 \u00d7 120 mm print zone",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "shaker-bottle.svg",
+    "category": "Accessories",
+    "title": "Shaker bottle / surface artwork",
+    "width": 1000,
+    "height": 800,
+    "dimensions": "55 mm mark",
+    "notes": "Flat placement master, not a garment pattern. Test embroidery or ink on supplier substrate; preserve symbol geometry and garment stretch."
+  },
+  {
+    "file": "exterior-signage.svg",
+    "category": "Environment",
+    "title": "Exterior signage",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "entrance.svg",
+    "category": "Environment",
+    "title": "Entrance",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "reception.svg",
+    "category": "Environment",
+    "title": "Reception desk",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "reception-wall.svg",
+    "category": "Environment",
+    "title": "Reception wall",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "lobby.svg",
+    "category": "Environment",
+    "title": "Lobby",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "strength-zone.svg",
+    "category": "Environment",
+    "title": "Strength zone",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "cardio-zone.svg",
+    "category": "Environment",
+    "title": "Cardio zone",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "studio.svg",
+    "category": "Environment",
+    "title": "Studio",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "locker-area.svg",
+    "category": "Environment",
+    "title": "Locker area",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "changing-room.svg",
+    "category": "Environment",
+    "title": "Changing room",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "directional-sign.svg",
+    "category": "Environment",
+    "title": "Directional sign",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "mirror-graphics.svg",
+    "category": "Environment",
+    "title": "Mirror graphics",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "wall-graphics.svg",
+    "category": "Environment",
+    "title": "Wall graphics",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "floor-graphics.svg",
+    "category": "Environment",
+    "title": "Floor graphics",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "class-schedule.svg",
+    "category": "Environment",
+    "title": "Class schedule",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "digital-screen.svg",
+    "category": "Environment",
+    "title": "Digital information screen",
+    "width": 1600,
+    "height": 900,
+    "dimensions": "16:9 face; scale to surveyed site",
+    "notes": "Concept sign face. Confirm local accessibility requirements, translations, mounting, sightlines and actual destinations. Floor signs require slip-rated material."
+  },
+  {
+    "file": "protein-core-front.svg",
+    "category": "Packaging",
+    "title": "CORE / protein front",
+    "width": 1000,
+    "height": 1200,
+    "dimensions": "120 \u00d7 144 mm concept panel",
+    "notes": "Range: IRON FUEL. CORE / POWER / RECOVER are product names; RECOVER is not a separate range. Ingredient and nutrition content awaits verified formulation."
+  },
+  {
+    "file": "protein-power-front.svg",
+    "category": "Packaging",
+    "title": "POWER / protein front",
+    "width": 1000,
+    "height": 1200,
+    "dimensions": "120 \u00d7 144 mm concept panel",
+    "notes": "Range: IRON FUEL. CORE / POWER / RECOVER are product names; RECOVER is not a separate range. Ingredient and nutrition content awaits verified formulation."
+  },
+  {
+    "file": "protein-recover-front.svg",
+    "category": "Packaging",
+    "title": "RECOVER / protein front",
+    "width": 1000,
+    "height": 1200,
+    "dimensions": "120 \u00d7 144 mm concept panel",
+    "notes": "Range: IRON FUEL. CORE / POWER / RECOVER are product names; RECOVER is not a separate range. Ingredient and nutrition content awaits verified formulation."
+  },
+  {
+    "file": "protein-tub-back.svg",
+    "category": "Packaging",
+    "title": "Protein tub / back",
+    "width": 1400,
+    "height": 1100,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "protein-pouch.svg",
+    "category": "Packaging",
+    "title": "Protein pouch / face",
+    "width": 1000,
+    "height": 1300,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "protein-pouch-back.svg",
+    "category": "Packaging",
+    "title": "Protein pouch / back",
+    "width": 1000,
+    "height": 1300,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "scoop-mark.svg",
+    "category": "Packaging",
+    "title": "Scoop / mark",
+    "width": 800,
+    "height": 500,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "hydration-bottle.svg",
+    "category": "Packaging",
+    "title": "Hydration bottle / label",
+    "width": 1200,
+    "height": 750,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "hydration-can-330.svg",
+    "category": "Packaging",
+    "title": "330 ml can / artwork",
+    "width": 1200,
+    "height": 900,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "hydration-bottle-500.svg",
+    "category": "Packaging",
+    "title": "500 ml bottle / artwork",
+    "width": 1200,
+    "height": 750,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "snack-core.svg",
+    "category": "Packaging",
+    "title": "Snack / Vanilla concept",
+    "width": 1200,
+    "height": 600,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "snack-power.svg",
+    "category": "Packaging",
+    "title": "Snack / Cocoa concept",
+    "width": 1200,
+    "height": 600,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "snack-recover.svg",
+    "category": "Packaging",
+    "title": "Snack / Berry concept",
+    "width": 1200,
+    "height": 600,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "snack-multipack.svg",
+    "category": "Packaging",
+    "title": "Snack multipack / front",
+    "width": 1200,
+    "height": 800,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "retail-display.svg",
+    "category": "Packaging",
+    "title": "Retail display / header",
+    "width": 1400,
+    "height": 750,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "welcome-box-lid.svg",
+    "category": "Welcome kit",
+    "title": "Welcome kit / lid",
+    "width": 1400,
+    "height": 900,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "welcome-box-inside.svg",
+    "category": "Welcome kit",
+    "title": "Welcome kit / inside lid",
+    "width": 1400,
+    "height": 900,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "welcome-box-insert.svg",
+    "category": "Welcome kit",
+    "title": "Welcome kit / insert plan",
+    "width": 1400,
+    "height": 900,
+    "dimensions": "Supplier template required",
+    "notes": "Front/side surface design or information architecture. No fabricated nutrition, certifications or machine-readable codes. Reserve 8 mm seam; 5 mm safe area as provisional starting points; supplier dieline governs."
+  },
+  {
+    "file": "social-brand-introduction.svg",
+    "category": "Social",
+    "title": "Brand Introduction",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-membership.svg",
+    "category": "Social",
+    "title": "Membership",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-training.svg",
+    "category": "Social",
+    "title": "Training",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-trainer.svg",
+    "category": "Social",
+    "title": "Trainer",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-fitness-education.svg",
+    "category": "Social",
+    "title": "Fitness Education",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-health-education.svg",
+    "category": "Social",
+    "title": "Health Education",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-class-schedule.svg",
+    "category": "Social",
+    "title": "Class Schedule",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-community.svg",
+    "category": "Social",
+    "title": "Community",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-motivation.svg",
+    "category": "Social",
+    "title": "Motivation",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-member-progress.svg",
+    "category": "Social",
+    "title": "Member Progress",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-campaign.svg",
+    "category": "Social",
+    "title": "Campaign",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "social-promotion.svg",
+    "category": "Social",
+    "title": "Promotion",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "4:5 social artwork. Editable live typography. Proposed copy; programme and offers must reflect actual operations."
+  },
+  {
+    "file": "story.svg",
+    "category": "Social",
+    "title": "Story",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": "1080 \u00d7 1920 px",
+    "notes": "Keep critical story copy between 250 and 1670 px on 1080 \u00d7 1920. Reel cover central crop reviewed separately."
+  },
+  {
+    "file": "reel-cover.svg",
+    "category": "Social",
+    "title": "Reel cover",
+    "width": 1080,
+    "height": 1920,
+    "dimensions": "1080 \u00d7 1920 px",
+    "notes": "Keep critical story copy between 250 and 1670 px on 1080 \u00d7 1920. Reel cover central crop reviewed separately."
+  },
+  {
+    "file": "digital-ad.svg",
+    "category": "Social",
+    "title": "Digital ad",
+    "width": 1200,
+    "height": 628,
+    "dimensions": "1200 \u00d7 628 px",
+    "notes": "Keep critical story copy between 250 and 1670 px on 1080 \u00d7 1920. Reel cover central crop reviewed separately."
+  },
+  {
+    "file": "carousel-01.svg",
+    "category": "Social",
+    "title": "Carousel / cover",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "Keep critical story copy between 250 and 1670 px on 1080 \u00d7 1920. Reel cover central crop reviewed separately."
+  },
+  {
+    "file": "carousel-02.svg",
+    "category": "Social",
+    "title": "Carousel / guidance",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "Keep critical story copy between 250 and 1670 px on 1080 \u00d7 1920. Reel cover central crop reviewed separately."
+  },
+  {
+    "file": "carousel-03.svg",
+    "category": "Social",
+    "title": "Carousel / next step",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 px",
+    "notes": "Keep critical story copy between 250 and 1670 px on 1080 \u00d7 1920. Reel cover central crop reviewed separately."
+  },
+  {
+    "file": "highlight-start.svg",
+    "category": "Social",
+    "title": "Highlight / START",
+    "width": 600,
+    "height": 600,
+    "dimensions": "600 \u00d7 600 px",
+    "notes": "Central crop-safe highlight cover."
+  },
+  {
+    "file": "highlight-train.svg",
+    "category": "Social",
+    "title": "Highlight / TRAIN",
+    "width": 600,
+    "height": 600,
+    "dimensions": "600 \u00d7 600 px",
+    "notes": "Central crop-safe highlight cover."
+  },
+  {
+    "file": "highlight-team.svg",
+    "category": "Social",
+    "title": "Highlight / TEAM",
+    "width": 600,
+    "height": 600,
+    "dimensions": "600 \u00d7 600 px",
+    "notes": "Central crop-safe highlight cover."
+  },
+  {
+    "file": "highlight-life.svg",
+    "category": "Social",
+    "title": "Highlight / LIFE",
+    "width": 600,
+    "height": 600,
+    "dimensions": "600 \u00d7 600 px",
+    "notes": "Central crop-safe highlight cover."
+  },
+  {
+    "file": "highlight-fuel.svg",
+    "category": "Social",
+    "title": "Highlight / FUEL",
+    "width": 600,
+    "height": 600,
+    "dimensions": "600 \u00d7 600 px",
+    "notes": "Central crop-safe highlight cover."
+  },
+  {
+    "file": "hero-poster.svg",
+    "category": "Campaign",
+    "title": "Hero Poster",
+    "width": 1000,
+    "height": 1400,
+    "dimensions": "1000 \u00d7 1400 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "poster-move.svg",
+    "category": "Campaign",
+    "title": "Poster Move",
+    "width": 1000,
+    "height": 1400,
+    "dimensions": "1000 \u00d7 1400 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "poster-built.svg",
+    "category": "Campaign",
+    "title": "Poster Built",
+    "width": 1000,
+    "height": 1400,
+    "dimensions": "1000 \u00d7 1400 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "billboard.svg",
+    "category": "Campaign",
+    "title": "Billboard",
+    "width": 2400,
+    "height": 800,
+    "dimensions": "2400 \u00d7 800 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "mall-advertising.svg",
+    "category": "Campaign",
+    "title": "Mall Advertising",
+    "width": 1200,
+    "height": 1800,
+    "dimensions": "1200 \u00d7 1800 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "campaign-digital-screen.svg",
+    "category": "Campaign",
+    "title": "Campaign Digital Screen",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": "1920 \u00d7 1080 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "gym-window.svg",
+    "category": "Campaign",
+    "title": "Gym Window",
+    "width": 1200,
+    "height": 1800,
+    "dimensions": "1200 \u00d7 1800 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "website-hero.svg",
+    "category": "Campaign",
+    "title": "Website Hero",
+    "width": 1920,
+    "height": 1080,
+    "dimensions": "1920 \u00d7 1080 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  },
+  {
+    "file": "social-campaign.svg",
+    "category": "Campaign",
+    "title": "Social Campaign",
+    "width": 1080,
+    "height": 1350,
+    "dimensions": "1080 \u00d7 1350 composition",
+    "notes": "Master typographic campaign face. Match final placement aspect ratio, viewing distance and supplier specifications."
+  }
+]
