@@ -1,0 +1,389 @@
+[
+  {
+    "number": 1,
+    "category": "Corporate",
+    "title": "Business Card",
+    "headline": "A considered first impression.",
+    "description": "Name / role hierarchy, navy reverse and a single orange corner.",
+    "source": "applications/business-card.html",
+    "preview": "applications/business-card.webp"
+  },
+  {
+    "number": 2,
+    "category": "Corporate",
+    "title": "Letterhead",
+    "headline": "Every detail, documented.",
+    "description": "A4 correspondence with bilingual headings and a clear text column.",
+    "source": "applications/letterhead.html",
+    "preview": "applications/letterhead.webp"
+  },
+  {
+    "number": 3,
+    "category": "Corporate",
+    "title": "Envelope",
+    "headline": "A clean arrival.",
+    "description": "DL envelope; address zone remains clear of the graphic frame.",
+    "source": "applications/envelope.html",
+    "preview": "applications/envelope.webp"
+  },
+  {
+    "number": 4,
+    "category": "Corporate",
+    "title": "Quotation",
+    "headline": "Scope before speed.",
+    "description": "Itemized work, quantities, commercial conditions and acceptance.",
+    "source": "applications/quotation.html",
+    "preview": "applications/quotation.webp"
+  },
+  {
+    "number": 5,
+    "category": "Corporate",
+    "title": "Invoice",
+    "headline": "Clarity at handover.",
+    "description": "Illustrative non-tax sample; legal and tax fields require verified company data.",
+    "source": "applications/invoice.html",
+    "preview": "applications/invoice.webp"
+  },
+  {
+    "number": 6,
+    "category": "Corporate",
+    "title": "Contract Cover",
+    "headline": "A shared commitment.",
+    "description": "Scope, project reference and signature routing on a restrained cover.",
+    "source": "applications/contract-cover.html",
+    "preview": "applications/contract-cover.webp"
+  },
+  {
+    "number": 7,
+    "category": "Corporate",
+    "title": "Company Profile",
+    "headline": "Practical capability.",
+    "description": "Construction, maintenance, technical services and a quality-first approach.",
+    "source": "applications/company-profile.html",
+    "preview": "applications/company-profile.webp"
+  },
+  {
+    "number": 8,
+    "category": "Corporate",
+    "title": "Presentation Folder",
+    "headline": "Everything in its place.",
+    "description": "Navy exterior, sand interior and coordinated document pocket.",
+    "source": "applications/presentation-folder.html",
+    "preview": "applications/presentation-folder.webp"
+  },
+  {
+    "number": 9,
+    "category": "Corporate",
+    "title": "Employee ID",
+    "headline": "People you can identify.",
+    "description": "Role, employee number and a clearly separated access label.",
+    "source": "applications/employee-id.html",
+    "preview": "applications/employee-id.webp"
+  },
+  {
+    "number": 10,
+    "category": "Corporate",
+    "title": "Email Signature",
+    "headline": "Professional communication.",
+    "description": "Compact logo, role and location; real contact data can be added by the company.",
+    "source": "applications/email-signature.html",
+    "preview": "applications/email-signature.webp"
+  },
+  {
+    "number": 11,
+    "category": "Construction",
+    "title": "Safety Helmet",
+    "headline": "Quality starts on site.",
+    "description": "Single-color print on manufacturer-approved shell area.",
+    "source": "applications/safety-helmet.html",
+    "preview": "applications/safety-helmet.webp"
+  },
+  {
+    "number": 12,
+    "category": "Construction",
+    "title": "Safety Vest",
+    "headline": "Visible. Responsible.",
+    "description": "Small chest identifier; reflective bands remain unobstructed.",
+    "source": "applications/safety-vest.html",
+    "preview": "applications/safety-vest.webp"
+  },
+  {
+    "number": 13,
+    "category": "Construction",
+    "title": "Engineer Vest",
+    "headline": "Check. Measure. Confirm.",
+    "description": "Navy utility vest with role patch and an orange seam accent.",
+    "source": "applications/engineer-vest.html",
+    "preview": "applications/engineer-vest.webp"
+  },
+  {
+    "number": 14,
+    "category": "Construction",
+    "title": "Worker Uniform",
+    "headline": "Made for the working day.",
+    "description": "Navy uniform, practical pockets and a small left-chest logo.",
+    "source": "applications/worker-uniform.html",
+    "preview": "applications/worker-uniform.webp"
+  },
+  {
+    "number": 15,
+    "category": "Construction",
+    "title": "Polo Shirt",
+    "headline": "A consistent team.",
+    "description": "Small navy or white embroidery, no oversized back advertisement.",
+    "source": "applications/polo-shirt.html",
+    "preview": "applications/polo-shirt.webp"
+  },
+  {
+    "number": 16,
+    "category": "Construction",
+    "title": "Work Shirt",
+    "headline": "Ready for the detail.",
+    "description": "Durable shirt with coordinated chest identity and role patch.",
+    "source": "applications/work-shirt.html",
+    "preview": "applications/work-shirt.webp"
+  },
+  {
+    "number": 17,
+    "category": "Construction",
+    "title": "Safety Jacket",
+    "headline": "Visibility with purpose.",
+    "description": "Orange outerwear and preserved high-visibility reflective zones.",
+    "source": "applications/safety-jacket.html",
+    "preview": "applications/safety-jacket.webp"
+  },
+  {
+    "number": 18,
+    "category": "Construction",
+    "title": "Toolbox",
+    "headline": "Order supports craft.",
+    "description": "Durable vinyl identifier and a clear equipment reference.",
+    "source": "applications/toolbox.html",
+    "preview": "applications/toolbox.webp"
+  },
+  {
+    "number": 19,
+    "category": "Construction",
+    "title": "Equipment Stickers",
+    "headline": "Know your equipment.",
+    "description": "High-contrast asset label with space for equipment record.",
+    "source": "applications/equipment-stickers.html",
+    "preview": "applications/equipment-stickers.webp"
+  },
+  {
+    "number": 20,
+    "category": "Construction",
+    "title": "Construction Signage",
+    "headline": "Work in progress.",
+    "description": "Readable brand panel separated from operational messages.",
+    "source": "applications/construction-signage.html",
+    "preview": "applications/construction-signage.webp"
+  },
+  {
+    "number": 21,
+    "category": "Construction",
+    "title": "Project Information Board",
+    "headline": "One source of project information.",
+    "description": "Project, scope, supervision and programme in an ordered grid.",
+    "source": "applications/project-information-board.html",
+    "preview": "applications/project-information-board.webp"
+  },
+  {
+    "number": 22,
+    "category": "Vehicle",
+    "title": "Pickup Branding",
+    "headline": "On the way to a better finish.",
+    "description": "White work pickup with navy door vinyl and restrained orange corners.",
+    "source": "applications/pickup-branding.html",
+    "preview": "applications/pickup-branding.webp"
+  },
+  {
+    "number": 23,
+    "category": "Vehicle",
+    "title": "Service Van",
+    "headline": "Service, clearly identified.",
+    "description": "Readable side branding; glass, lights and handles remain clear.",
+    "source": "applications/service-van.html",
+    "preview": "applications/service-van.webp"
+  },
+  {
+    "number": 24,
+    "category": "Vehicle",
+    "title": "Construction Truck",
+    "headline": "A practical working fleet.",
+    "description": "Cab-door mark and navy lower panel for easy maintenance.",
+    "source": "applications/construction-truck.html",
+    "preview": "applications/construction-truck.webp"
+  },
+  {
+    "number": 25,
+    "category": "Site",
+    "title": "Site Hoarding",
+    "headline": "Take the time to do it right.",
+    "description": "Modular 2400 × 1200 mm panels with a measured rhythm.",
+    "source": "applications/site-hoarding.html",
+    "preview": "applications/site-hoarding.webp"
+  },
+  {
+    "number": 26,
+    "category": "Site",
+    "title": "Construction Fence",
+    "headline": "A disciplined site boundary.",
+    "description": "Brand panels mounted to a practical fence, with open sightlines.",
+    "source": "applications/construction-fence.html",
+    "preview": "applications/construction-fence.webp"
+  },
+  {
+    "number": 27,
+    "category": "Site",
+    "title": "Project Board",
+    "headline": "Care at every stage.",
+    "description": "Bilingual title hierarchy and separate project information area.",
+    "source": "applications/project-board.html",
+    "preview": "applications/project-board.webp"
+  },
+  {
+    "number": 28,
+    "category": "Site",
+    "title": "Directional Signage",
+    "headline": "The right way forward.",
+    "description": "High-contrast arrow, destination and consistent mounting height.",
+    "source": "applications/directional-signage.html",
+    "preview": "applications/directional-signage.webp"
+  },
+  {
+    "number": 29,
+    "category": "Site",
+    "title": "Safety Signage",
+    "headline": "Safety is part of quality.",
+    "description": "Brand strip sits separately from required safety symbols and instructions.",
+    "source": "applications/safety-signage.html",
+    "preview": "applications/safety-signage.webp"
+  },
+  {
+    "number": 30,
+    "category": "Office",
+    "title": "Exterior Signage",
+    "headline": "A dependable presence.",
+    "description": "Navy dimensional mark on a restrained light architectural fascia.",
+    "source": "applications/exterior-signage.html",
+    "preview": "applications/exterior-signage.webp"
+  },
+  {
+    "number": 31,
+    "category": "Office",
+    "title": "Entrance Branding",
+    "headline": "Welcome to Handy Work.",
+    "description": "A single identity at the threshold, with clear pedestrian circulation.",
+    "source": "applications/entrance-branding.html",
+    "preview": "applications/entrance-branding.webp"
+  },
+  {
+    "number": 32,
+    "category": "Office",
+    "title": "Reception Logo Wall",
+    "headline": "A proper welcome.",
+    "description": "Exact mark, material depth and uncluttered surrounding wall.",
+    "source": "applications/reception-logo-wall.html",
+    "preview": "applications/reception-logo-wall.webp"
+  },
+  {
+    "number": 33,
+    "category": "Office",
+    "title": "Glass Graphics",
+    "headline": "Structure, lightly drawn.",
+    "description": "Thin navy frame and small orange corner; visibility remains clear.",
+    "source": "applications/glass-graphics.html",
+    "preview": "applications/glass-graphics.webp"
+  },
+  {
+    "number": 34,
+    "category": "Office",
+    "title": "Office Directional Signage",
+    "headline": "Find your next destination.",
+    "description": "English and Arabic destination names with directional hierarchy.",
+    "source": "applications/office-directional-signage.html",
+    "preview": "applications/office-directional-signage.webp"
+  },
+  {
+    "number": 35,
+    "category": "Office",
+    "title": "Meeting Room Branding",
+    "headline": "Agree the detail.",
+    "description": "Subtle room identifier and an organized project discussion space.",
+    "source": "applications/meeting-room-branding.html",
+    "preview": "applications/meeting-room-branding.webp"
+  },
+  {
+    "number": 36,
+    "category": "Digital",
+    "title": "Website Hero",
+    "headline": "Take the time to do it right.",
+    "description": "Quality-first proposition, service overview and clear enquiry action.",
+    "source": "applications/website-hero.html",
+    "preview": "applications/website-hero.webp"
+  },
+  {
+    "number": 37,
+    "category": "Digital",
+    "title": "Desktop Website",
+    "headline": "A clearer project journey.",
+    "description": "Responsive services, process and quality promise.",
+    "source": "applications/desktop-website.html",
+    "preview": "applications/desktop-website.webp"
+  },
+  {
+    "number": 38,
+    "category": "Digital",
+    "title": "Mobile Website",
+    "headline": "Professional on every screen.",
+    "description": "Readable copy, touch-friendly navigation and natural image crops.",
+    "source": "applications/mobile-website.html",
+    "preview": "applications/mobile-website.webp"
+  },
+  {
+    "number": 39,
+    "category": "Digital",
+    "title": "Instagram Profile",
+    "headline": "Work, shown properly.",
+    "description": "Coordinated profile symbol, story highlights and diverse post layouts.",
+    "source": "applications/instagram-profile.html",
+    "preview": "applications/instagram-profile.webp"
+  },
+  {
+    "number": 40,
+    "category": "Digital",
+    "title": "Instagram Posts",
+    "headline": "The details make the difference.",
+    "description": "Ten content themes with a shared visual system.",
+    "source": "applications/instagram-posts.html",
+    "preview": "applications/instagram-posts.webp"
+  },
+  {
+    "number": 41,
+    "category": "Digital",
+    "title": "Instagram Stories",
+    "headline": "A closer look at the work.",
+    "description": "Vertical composition with protected headline and interface zones.",
+    "source": "applications/instagram-stories.html",
+    "preview": "applications/instagram-stories.webp"
+  },
+  {
+    "number": 42,
+    "category": "Digital",
+    "title": "LinkedIn Banner",
+    "headline": "Precision. Workmanship. Reliability.",
+    "description": "Wide professional composition with profile-picture clearance.",
+    "source": "applications/linkedin-banner.html",
+    "preview": "applications/linkedin-banner.webp"
+  },
+  {
+    "number": 43,
+    "category": "Digital",
+    "title": "WhatsApp Business Graphics",
+    "headline": "A professional first response.",
+    "description": "Clear service summary and quality promise without invented contact details.",
+    "source": "applications/whatsapp-business-graphics.html",
+    "preview": "applications/whatsapp-business-graphics.webp"
+  }
+]
